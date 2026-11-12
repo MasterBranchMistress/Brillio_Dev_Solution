@@ -1,0 +1,17 @@
+com.listingsearch
+├── ListingSearchApplication.java
+├── listing
+│   ├── model
+│   │   └── Listing.java
+│   ├── repository
+│   │   └── ListingRepository.java
+│   ├── service
+│   │   ├── ListingService.java
+│   │   └── RelevanceScorer.java
+│   ├── controller
+│   │   └── ListingController.java
+│   └── dto
+│       ├── ListingSearchRequest.java
+│       └── PagedListingResponse.java
+└── exception
+    └── GlobalExceptionHandler.java

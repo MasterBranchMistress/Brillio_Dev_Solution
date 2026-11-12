@@ -1,0 +1,13 @@
+package com.brillio.listingSearch;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ListingSearchApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
